@@ -1,7 +1,7 @@
 # coherence
 Python module for visualizing neural coherence data (Kravitz Lab)
 
-Visit the Jupyter Notebooks to see how to use this module (nbviewer links:
+Visit the Jupyter Notebooks to see how to use this module (either on GitHub or with nbviewer links below):
 
 [1. Introduction](https://nbviewer.jupyter.org/github/earnestt1234/coherence/blob/master/1.%20Introduction.ipynb)
 
